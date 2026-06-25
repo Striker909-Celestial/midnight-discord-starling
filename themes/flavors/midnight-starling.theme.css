@@ -19,8 +19,7 @@ body {
     /* font options */
     --font: 'figtree'; /* change to '' for default discord font */
     --code-font: 'JetBrains Mono'; /* change to '' for default discord font */
-    font-weight: 400; /* normal text font weight. DOES NOT AFFECT BOLD TEXT */
-
+    font-weight: 300; /* normal text font weight. DOES NOT AFFECT BOLD TEXT */
     /* sizes */
     --gap: 12px; /* spacing between panels */
     --divider-thickness: 4px; /* thickness of unread messages divider and highlighted message borders */
